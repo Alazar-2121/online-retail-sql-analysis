@@ -23,8 +23,3 @@ The goal is to demonstrate **SQL data analysis skills** for portfolio purposes.
 - UK generated ~80% of total revenue
 - Top customer spent ~£12,000 in one year
 - Peak sales hours: 9–11 AM
-
-## How to Run
-1. Import `online_retail_cleaned.csv` into PostgreSQL
-2. Execute `online_retail_analysis.sql` in pgAdmin or psql
-3. Export results or create visualizations
